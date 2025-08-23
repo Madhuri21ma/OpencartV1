@@ -1,0 +1,103 @@
+09:34:04.156 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:34:04.166 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:34:08.031 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:34:08.199 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:34:08.199 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:34:08.837 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on register
+09:34:08.896 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***providing customer details......
+09:34:11.757 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message
+09:34:11.814 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest 
+09:35:21.686 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml"
+09:35:21.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml
+
+09:35:24.737 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:35:25.403 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:35:25.404 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:35:27.128 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on register
+09:35:27.134 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***providing customer details......
+09:35:30.053 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:35:30.264 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:35:30.264 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:35:30.838 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on register
+09:35:30.839 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***providing customer details......
+09:35:31.908 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message
+09:35:31.985 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest 
+09:35:33.646 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message
+09:35:38.976 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:35:39.153 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:35:39.153 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:35:39.568 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on register
+09:35:39.569 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***providing customer details......
+09:35:42.408 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message
+09:35:42.453 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest 
+09:37:14.169 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml"
+09:37:14.450 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml
+
+09:37:19.906 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:37:22.082 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:37:22.467 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:37:22.467 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:37:23.016 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:37:23.016 [TestNG-tests-3] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:37:24.908 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:37:25.076 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:37:25.077 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:37:25.655 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on register
+09:37:25.658 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***providing customer details......
+09:37:28.423 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message
+09:37:28.462 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest 
+09:39:17.246 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml"
+09:39:17.512 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml
+
+09:41:03.722 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml"
+09:41:03.977 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml
+
+09:41:09.552 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:41:10.483 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:10.483 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:12.356 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on register
+09:41:12.361 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***providing customer details......
+09:41:23.084 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:41:23.228 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:23.228 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:28.086 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:41:28.252 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:28.254 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:28.702 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on register
+09:41:28.703 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***providing customer details......
+09:41:31.451 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message
+09:41:31.528 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest 
+09:41:49.785 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml"
+09:41:50.052 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml
+
+09:41:55.051 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:41:56.013 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:41:56.225 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:56.226 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:56.438 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:56.438 [TestNG-tests-3] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:57.974 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:41:58.084 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:58.085 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:41:58.606 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on register
+09:41:58.615 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***providing customer details......
+09:42:01.420 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message
+09:42:01.470 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest 
+09:48:35.204 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml"
+09:48:35.573 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kulka\IdeaProjects\OpencartV1\crossbrowsertesting.xml
+
+09:48:43.544 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:48:43.544 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:48:45.311 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:48:45.311 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:48:45.575 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:48:45.577 [TestNG-tests-3] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:48:48.326 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest 
+09:48:48.498 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***clicked on my account
+09:48:48.498 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - ***clicked on my account

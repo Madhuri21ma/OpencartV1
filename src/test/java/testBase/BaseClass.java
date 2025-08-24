@@ -1,5 +1,6 @@
 package testBase;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.poi.ss.formula.atp.Switch;
 import org.openqa.selenium.OutputType;
@@ -74,12 +75,15 @@ public class BaseClass {
         if (prop.getProperty("execution_env").equalsIgnoreCase("local")) {
             switch (browser) {
                 case "chrome":
+                    WebDriverManager.chromedriver().setup();
                     driver = new ChromeDriver();
                     break;
                 case "firefox":
+                    WebDriverManager.firefoxdriver().setup();
                     driver = new FirefoxDriver();
                     break;
                 case "edge":
+                    WebDriverManager.edgedriver().setup();
                     driver = new EdgeDriver();
                     break;
                 default:
